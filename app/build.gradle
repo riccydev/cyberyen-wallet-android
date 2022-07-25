@@ -316,7 +316,7 @@ dependencies {
     // Progress Button
     implementation 'com.github.razir.progressbutton:progressbutton:2.1.0'
 
-    api project(":partnerapi")
+    //api project(":partnerapi")
 
     // Dagger
     implementation 'com.google.dagger:dagger:2.41'

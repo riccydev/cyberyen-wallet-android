@@ -69,7 +69,7 @@ Simplicity and ease-of-use is **Litewallet**'s core design principle. A simple r
 
 1. Clone this repo & update submodules
 ```bash
-$ git clone git@github.com:litecoin-foundation/litewallet-android.git
+$ git clone git@github.com:riccydev/cyberyen-wallet-android.git
 $ git submodule init
 $ git submodule update --init --recursive
 ```
